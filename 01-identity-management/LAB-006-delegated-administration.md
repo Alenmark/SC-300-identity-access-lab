@@ -73,11 +73,22 @@ The following evidence is stored in:
 
 `screenshots/LAB-006-delegated-administration/`
 
-| Evidence | Screenshot |
-|---|---|
-| Eligible Groups Administrator assignment | `LAB-006-03-groups-administrator-eligible.png` |
-| Successful delegated group membership change | `LAB-006-04-delegated-group-membership.png` |
-| Global Administrator assignment restriction view | `LAB-006-05-global-admin-assignment-restriction.png` |
+## Evidence
+
+### 1. Test administrator account
+![Test administrator account](../screenshots/LAB-006-delegated-administration/LAB-006-01-test-admin-account.png)
+
+### 2. Eligible role assignment
+![Eligible role assignment](../screenshots/LAB-006-delegated-administration/LAB-006-02-eligible-role-assignment.png)
+
+### 3. Role activation
+![PIM role activation](../screenshots/LAB-006-delegated-administration/LAB-006-03-role-activation.png)
+
+### 4. Delegated group management
+![Delegated group management](../screenshots/LAB-006-delegated-administration/LAB-006-04-delegated-group-management.png)
+
+### 5. Global Administrator restriction
+![Global Administrator restriction](../screenshots/LAB-006-delegated-administration/LAB-006-05-global-admin-restriction.png)
 
 Include the role activation screenshot as additional evidence if available.
 
