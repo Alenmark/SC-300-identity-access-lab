@@ -150,13 +150,13 @@ Evidence is stored in:
 
 | Evidence | Description |
 |---|---|
-| LAB-007-01-authentication-method-policies.png | Authentication methods and enabled/disabled settings |
-| LAB-007-02-microsoft-authenticator-settings.png | Authenticator targeting and configuration |
-| LAB-007-03-mfa-test-group-members.png | Test group membership |
-| LAB-007-04-conditional-access-report-only.png | Conditional Access policy and Report-only state |
-| LAB-007-05-emergency-access-exclusion.png | Emergency access group exclusion |
-| LAB-007-06-number-matching-challenge.png | Authenticator number-matching challenge |
-| LAB-007-07-authenticator-registration-success.png | Successful Authenticator registration |
+| [LAB-007-01-authentication-method-policies.png](../screenshots/LAB-007-mfa-and-authentication/LAB-007-01-authentication-method-policies.png) | Authentication methods and enabled/disabled settings |
+| [LAB-007-02-microsoft-authenticator-settings.png](../screenshots/LAB-007-mfa-and-authentication/LAB-007-02-microsoft-authenticator-settings.png) | Authenticator targeting and configuration |
+| [LAB-007-03-mfa-test-group-members.png](../screenshots/LAB-007-mfa-and-authentication/LAB-007-03-mfa-test-group-members.png) | Test group membership |
+| [LAB-007-04-conditional-access-report-only.png](../screenshots/LAB-007-mfa-and-authentication/LAB-007-04-conditional-access-report-only.png) | Conditional Access policy and Report-only state |
+| [LAB-007-05-emergency-access-exclusion.png](../screenshots/LAB-007-mfa-and-authentication/LAB-007-05-emergency-access-exclusion.png) | Emergency access group exclusion |
+| [LAB-007-06-number-matching-challenge.png](../screenshots/LAB-007-mfa-and-authentication/LAB-007-06-number-matching-challenge.png) | Authenticator number-matching challenge |
+| [LAB-007-07-authenticator-registration-success.png](../screenshots/LAB-007-mfa-and-authentication/LAB-007-07-authenticator-registration-success.png) | Successful Authenticator registration |
 
 Registration QR codes and other temporary authentication secrets are excluded from the public evidence.
 
