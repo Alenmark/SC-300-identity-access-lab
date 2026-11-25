@@ -2,17 +2,36 @@
 
 ## Overview
 
-This section covers the creation, configuration and management of identities within Microsoft Entra ID.
+This section demonstrates practical implementation and administration of user identities and groups within Microsoft Entra ID.
 
-## Areas Covered
+The exercises use a fictional organisation, Alenmac Consulting, to demonstrate identity management scenarios relevant to real-world enterprise environments.
 
-- User account creation and management
-- Security groups and Microsoft 365 groups
-- Dynamic groups
-- Device identity management
-- External identities and guest users
+## Completed Labs
+
+| Lab | Description | Status |
+|---|---|---|
+| [LAB-002: User Provisioning](LAB-002-user-provisioning.md) | Creating and configuring employee identities | Completed |
+| [LAB-003: Security Group Management](LAB-003-security-group-management.md) | Creating departmental security groups and managing membership | Completed |
+| [LAB-004: Dynamic Groups](LAB-004-dynamic-groups.md) | Configuring attribute-based dynamic group membership | Completed |
+
+## Skills Demonstrated
+
+- Microsoft Entra ID user provisioning
+- User identity and profile management
+- Security group creation and administration
+- Assigned group membership
+- Dynamic group membership rules
+- Attribute-based identity management
+
+## Planned Exercises
+
+- User lifecycle management
 - Administrative role assignments
+- External identities and guest users
+- Device identity management
 
-## Practical Objective
+## Technologies
 
-Demonstrate the ability to manage user and device identities, organise access through groups, and administer identity permissions within an enterprise environment.
+- Microsoft Entra ID
+- Microsoft Entra admin centre
+- GitHub and Markdown documentation
