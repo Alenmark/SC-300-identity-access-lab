@@ -13,8 +13,8 @@ The exercises use a fictional organisation, Alenmac Consulting, to demonstrate i
 | [LAB-002: User Provisioning](LAB-002-user-provisioning.md) | Creating and configuring employee identities | Completed |
 | [LAB-003: Security Group Management](LAB-003-security-group-management.md) | Creating departmental security groups and managing membership | Completed |
 | [LAB-004: Dynamic Groups](LAB-004-dynamic-groups.md) | Configuring attribute-based dynamic group membership | Completed |
-| LAB-005: User Lifecycle Management| Demonstrating Joiner, Mover and Leaver scenarios, including account disabling and group membership change | Completed |
-| LAB-006: Delegated Administration | Using PIM to delegate group administration and test privileged role boundaries | Completed |
+| [LAB-005: User Lifecycle Management](LAB-005-user-lifecycle-management.md) | Demonstrating Joiner, Mover and Leaver scenarios, including account disabling and group membership change | Completed |
+| [LAB-006: Delegated Administration](LAB-006-delegated-administration.md) | Using PIM to delegate group administration and test privileged role boundaries | Completed |
 
 ## Skills Demonstrated
 
