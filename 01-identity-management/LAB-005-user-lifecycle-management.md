@@ -114,6 +114,34 @@ The user account was retained rather than deleted to preserve the identity recor
 
 ## 8. Evidence
 
-Screenshots demonstrating employee provisioning, department transfer, dynamic group membership, account disabling and group membership removal are stored in the repository's screenshots directory.
+All screenshots were captured during the practical implementation of the Joiner, Mover and Leaver scenarios.
 
-Sensitive tenant identifiers, object IDs, email addresses and credentials are excluded from published evidence.
+### Joiner — Employee Provisioning
+
+**Ethan Cole — User profile**
+
+![Joiner user profile](../screenshots/LAB-005-user-lifecycle-management/LAB-005-01-joiner-user-profile.png)
+
+**Departmental group membership**
+
+![Joiner group membership](../screenshots/LAB-005-user-lifecycle-management/LAB-005-02-joiner-group-membership.png)
+
+### Mover — Department Transfer
+
+**Automatic Finance group membership**
+
+![Mover Finance membership](../screenshots/LAB-005-user-lifecycle-management/LAB-005-03-mover-finance-membership.png)
+
+**Updated group memberships**
+
+![Mover updated groups](../screenshots/LAB-005-user-lifecycle-management/LAB-005-04-mover-updated-groups.png)
+
+### Leaver — Employee Offboarding
+
+**Disabled employee account**
+
+![Leaver disabled account](../screenshots/LAB-005-user-lifecycle-management/LAB-005-05-leaver-disabled-account.png)
+
+**Final dynamic Finance group membership**
+
+![Leaver dynamic membership](../screenshots/LAB-005-user-lifecycle-management/LAB-005-06-leaver-dynamic-membership.png)
