@@ -1,0 +1,1 @@
+Evidence screenshots for LAB-010 — Microsoft Entra Password Protection. Includes the Smart Lockout configuration, organisation-specific custom banned password list, and a password rejection test showing error code 120018.
