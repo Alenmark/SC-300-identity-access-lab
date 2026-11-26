@@ -62,11 +62,15 @@ On the subsequent sign-in attempt, the TAP option was no longer offered and Micr
 
 Screenshots are stored in the central repository evidence folder:
 
+## Evidence
+
+Screenshots are stored in the central repository evidence folder:
+
 - [TAP policy scope](../screenshots/LAB-008-temporary-access-pass/LAB-008-01-tap-policy-scope.png)
 - [TAP lifetime settings](../screenshots/LAB-008-temporary-access-pass/LAB-008-02-tap-lifetime-settings.png)
 - [TAP creation settings](../screenshots/LAB-008-temporary-access-pass/LAB-008-03-tap-creation-settings.png)
-- [TAP no longer offered after use](../screenshots/LAB-008-temporary-access-pass/LAB-008-04-tap-no-longer-offered.png)
-
+- [Sign-in options after TAP use](../screenshots/LAB-008-temporary-access-pass/LAB-008-04-sign-in-options-after-use.png)
+- [TAP no longer offered after use](../screenshots/LAB-008-temporary-access-pass/LAB-008-05-tap-no-longer-offered.png)
 ## 7. Conclusion
 
 Successfully configured and tested Microsoft Entra Temporary Access Pass using a dedicated test group. Verified the initial TAP sign-in and observed that the one-time TAP was no longer offered during the subsequent sign-in attempt.
