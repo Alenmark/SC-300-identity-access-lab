@@ -1,0 +1,1 @@
+Evidence screenshots for LAB-011 — Microsoft Entra Conditional Access. Includes policy configuration, Security Defaults status, policy impact reporting and individual sign-in evaluation in Report-only mode.
